@@ -78,7 +78,7 @@ a:hover {
 
 /* Preloader */
 .pre-loader { 
-    background-color: #fff;
+    background-color: red;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -422,7 +422,7 @@ a:active {
 #vossen-youtube {
     position: absolute;
     overflow: hidden;
-    background-color: #0f1112;
+    background-color: pink;
     top: 50%;
     left: 50% !important;
     z-index: 0;  
@@ -477,7 +477,7 @@ a:active {
     height: 4px;
     margin: 2px 2px;
     display: block;
-    background: rgba(255,255,255,.8);
+    background: rgba(255,142,255,.8);
     position: relative;
     z-index: 1000 !important;
     -webkit-border-radius: 4px;
@@ -1120,7 +1120,7 @@ fieldset[disabled] .btn-primary.active, fieldset[disabled] .btn-primary.focus, f
     transform: scale(1.08);
 } 
 .team-image img {
-    width: 100%;
+    height: 50px;
 }
 .team-container .team-caption {
     width: 100%;
@@ -2878,7 +2878,7 @@ input.submit:hover {
 }
 /* Footer 2 Dark*/
 .footer.style-1.dark {
-    background: #111; 
+    background: white; 
 }    
 .footer.style-1.dark img {
     margin-bottom: 5px;
