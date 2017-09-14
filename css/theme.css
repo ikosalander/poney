@@ -1119,8 +1119,10 @@ fieldset[disabled] .btn-primary.active, fieldset[disabled] .btn-primary.focus, f
     -moz-transform: scale(1.08);
     transform: scale(1.08);
 } 
+/* team size */
 .team-image img {
-    height: 50px;
+    width: 40px;
+    height: 350px;
 }
 .team-container .team-caption {
     width: 100%;
